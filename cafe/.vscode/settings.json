@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "d:\\oracle\\OJDBC-Full\\ojdbc7.jar"
+        ],
+        "exclude": [
+            "d:\\oracle\\OJDBC-Full\\ojdbc6.jar"
+        ]
+    }
+}
